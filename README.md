@@ -1,6 +1,7 @@
 <!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oussama-Readme/Banners/main/dotnet-developer-banner.png" alt=".NET Developer Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AbdelliOussama/Banners/main/dotnet-csharp-banner.png" alt=".NET & C# Developer Banner" width="100%" />
 </p>
 
 

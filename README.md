@@ -1,75 +1,94 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Ce8jKZ0.png" width="100%" alt=".NET Developer Banner" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Oussama</h1>
 <h3 align="center">.NET Developer | C# Enthusiast | SQL Server Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+.NET+Developer;C%23+%7C+SQL+%7C+Clean+Architecture+Advocate;Always+learning+%E2%9C%85" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👤 Bio
 
-I'm a passionate and dedicated **.NET Developer** with a strong foundation in software engineering and experience in building robust, maintainable applications using **C#**, **.NET**, and **SQL Server**.  
-I have a deep interest in writing clean, scalable code and applying modern development patterns like **Dependency Injection** and the **Repository Pattern**.
+I'm a passionate and dedicated **.NET Developer** with a solid background in software engineering and hands-on experience building robust, scalable applications using **C#**, **.NET**, and **SQL Server**.
 
-I enjoy working with tools and libraries like **MediatR**, **AutoMapper**, and **Serilog** to enhance application quality and maintainability.  
-Whether it's backend logic, database design, or system optimization, I strive to deliver efficient and reliable solutions. I'm always eager to learn new technologies and contribute to impactful projects.
+🔧 I love applying software architecture patterns like **Dependency Injection**, **Repository Pattern**, and **Clean Architecture** to ensure maintainability.  
+🚀 I enjoy working with libraries like **MediatR**, **AutoMapper**, and **Serilog**, and I regularly explore new technologies to level up my skills.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+### 💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 📚 Libraries & Patterns
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-FF4081?style=for-the-badge&logo=mediator&logoColor=white)
-![AutoMapper](https://img.shields.io/badge/AutoMapper-FF6F00?style=for-the-badge)
-![Serilog](https://img.shields.io/badge/Serilog-2C3E50?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge)
+### 📦 Libraries & Tools
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-6DB33F?style=flat-square&logo=.net)
+![MediatR](https://img.shields.io/badge/-MediatR-FF6F00?style=flat-square)
+![AutoMapper](https://img.shields.io/badge/-AutoMapper-DD0031?style=flat-square)
+![Serilog](https://img.shields.io/badge/-Serilog-009688?style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square)
+![Dependency Injection](https://img.shields.io/badge/-DI-4CAF50?style=flat-square)
 
 ### 🧪 Testing
-![xUnit](https://img.shields.io/badge/xUnit-007ACC?style=for-the-badge)
-![NUnit](https://img.shields.io/badge/NUnit-336791?style=for-the-badge)
-![Moq](https://img.shields.io/badge/Moq-7B42BC?style=for-the-badge)
-![FluentAssertions](https://img.shields.io/badge/FluentAssertions-A94442?style=for-the-badge)
+![xUnit](https://img.shields.io/badge/-xUnit-FF6600?style=flat-square)
+![NUnit](https://img.shields.io/badge/-NUnit-008000?style=flat-square)
+![Moq](https://img.shields.io/badge/-Moq-9C27B0?style=flat-square)
+![FluentAssertions](https://img.shields.io/badge/-FluentAssertions-607D8B?style=flat-square)
 
-### 💡 Development Principles
-- SOLID Principles  
-- Clean Architecture  
-- Layered Architecture  
-- Domain-Driven Design  
-- RESTful APIs  
-- Git & GitHub  
-
----
-
-## 🚀 Featured Projects
-
-> 📌 _Coming Soon — Highlight your top projects here with short descriptions, technologies used, and GitHub links._
+### 💡 Dev Practices
+- 🧠 **Clean Architecture**
+- 🧱 **Layered Design**
+- 🔄 **RESTful APIs**
+- 🔁 **SOLID Principles**
+- 📦 **Git & GitHub Workflow**
 
 ---
 
-## 📈 GitHub Stats
+## 📂 Featured Projects
+
+> Showcase your top repositories here with short descriptions, tech used, and links.
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| `ClinicManagementSystem` | A full-stack appointment system for clinics. | `.NET`, `SQL Server`, `EF Core`, `MediatR` |
+| `ExamPlatform` | Online MCQ exam platform with result calculation. | `C#`, `T-SQL`, `HTML`, `CSS` |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelliOussama&show_icons=true&theme=radical" alt="Oussama's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelliOussama&theme=radical" alt="Oussama's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelliOussama&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- 📧 Email: [oussama.abdelli.it@gmail.com](mailto:oussama.abdelli.it@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/oussama-abdelli-2a6326345](https://linkedin.com/in/oussama-abdelli-2a6326345)  
-- 🌐 Portfolio: _Coming Soon_
+<p align="left">
+  <a href="mailto:oussama.abdelli.it@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/oussama-abdelli-2a6326345"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <!-- Optional: Add your portfolio link here -->
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
+
+---
+
+## 🚀 Let's Build Something Great Together!

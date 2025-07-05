@@ -60,12 +60,7 @@ I'm a passionate and dedicated **.NET Developer** with a solid background in sof
 
 ## 📂 Featured Projects
 
-> Showcase your top repositories here with short descriptions, tech used, and links.
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| `ClinicManagementSystem` | A full-stack appointment system for clinics. | `.NET`, `SQL Server`, `EF Core`, `MediatR` |
-| `ExamPlatform` | Online MCQ exam platform with result calculation. | `C#`, `T-SQL`, `HTML`, `CSS` |
 
 ---
 

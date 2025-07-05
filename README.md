@@ -1,6 +1,8 @@
 <!-- Banner -->
 <!-- Banner -->
-![Banner](https://i.postimg.cc/05cVWgKp/Chat-GPT-Image-Jul-5-2025-05-51-10-PM.png)
+<p>
+  <img src="https://i.postimg.cc/05cVWgKp/Chat-GPT-Image-Jul-5-2025-05-51-10-PM.png" width="50%" />
+</p>
 
 
 

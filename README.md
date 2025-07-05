@@ -57,9 +57,9 @@ Whether it's backend logic, database design, or system optimization, I strive to
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaAbdelli&show_icons=true&theme=radical" alt="Oussama's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelliOussama&show_icons=true&theme=radical" alt="Oussama's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaAbdelli&theme=radical" alt="Oussama's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelliOussama&theme=radical" alt="Oussama's GitHub Streak" />
 </p>
 
 ---

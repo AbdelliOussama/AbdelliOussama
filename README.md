@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-  <img src=[![Chat-GPT-Image-Jul-5-2025-05-51-10-PM.png](https://i.postimg.cc/05cVWgKp/Chat-GPT-Image-Jul-5-2025-05-51-10-PM.png)](https://postimg.cc/w3R5MGVv)" alt=".NET & C# Developer Banner" width="100%" />
+ <img src="https://i.postimg.cc/05cVWgKp/Chat-GPT-Image-Jul-5-2025-05-51-10-PM.png" width="100%" />
 </p>
 
 

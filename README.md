@@ -8,6 +8,8 @@
 <h1 align="center">Hi there 👋, I'm Oussama</h1>
 <h3 align="center">.NET Developer | C# Enthusiast | SQL Server Specialist</h3>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+.NET+Developer;C%23+%7C+SQL+%7C+Clean+Architecture+Advocate;Always+learning+%E2%9C%85" alt="Typing SVG" />
 </p>

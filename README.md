@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Ce8jKZ0.png" width="100%" alt=".NET Developer Banner" />
+  <img src="https://raw.githubusercontent.com/Oussama-Readme/Banners/main/dotnet-developer-banner.png" alt=".NET Developer Banner" width="100%"/>
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Oussama</h1>
 <h3 align="center">.NET Developer | C# Enthusiast | SQL Server Specialist</h3>

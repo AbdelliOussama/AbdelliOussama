@@ -48,6 +48,24 @@ I'm a passionate and dedicated **.NET Developer** with a solid background in sof
 ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square)
 ![Dependency Injection](https://img.shields.io/badge/-DI-4CAF50?style=flat-square)
 
+### 🔐 JWT (JSON Web Tokens)
+- Used for secure stateless authentication in APIs.
+- Popular package: [`System.IdentityModel.Tokens.Jwt`](https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/)
+- Enables token generation and validation for user authentication.
+
+### 👤 ASP.NET Core Identity Framework
+- Provides a complete membership system for user management.
+- Supports roles, claims, password hashing, and external login providers.
+- NuGet Package: [`Microsoft.AspNetCore.Identity.EntityFrameworkCore`](https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore/)
+- Ideal for implementing authentication and authorization in web apps.
+
+### ✅ FluentValidation
+- A powerful library for building strongly-typed validation rules.
+- Helps keep validation logic clean and separate from models.
+- NuGet Package: [`FluentValidation`](https://www.nuget.org/packages/FluentValidation/)
+- Example usage for validating user input models in APIs or UI.
+
+
 ### 🧪 Testing
 ![xUnit](https://img.shields.io/badge/-xUnit-FF6600?style=flat-square)
 ![NUnit](https://img.shields.io/badge/-NUnit-008000?style=flat-square)

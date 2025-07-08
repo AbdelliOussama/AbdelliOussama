@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Banner -->
 <p>
-  <img src="https://i.postimg.cc/qvpC7dVz/Chat-GPT-Image-Jul-5-2025-10-52-04-PM.png" height="100" />
+  <img src="https://i.postimg.cc/qvpC7dVz/Chat-GPT-Image-Jul-5-2025-10-52-04-PM.png" height="100" width="100%" />
 </p>
 
 

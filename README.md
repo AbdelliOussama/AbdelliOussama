@@ -62,6 +62,11 @@
   <a href="https://wa.me/216XXXXXXXX"><img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="40"/></a>
 </p>
 
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**

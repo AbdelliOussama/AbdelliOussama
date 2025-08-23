@@ -23,7 +23,7 @@
 <p align="left">
   <a href="mailto:oussama.abdelli.it@gmail.com"><img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/></a>&nbsp;
   <a href="https://linkedin.com/in/oussama-abdelli-2a6326345"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/></a>&nbsp;
-  <a href="https://wa.me/216XXXXXXXX"><img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="40"/></a>
+  <a href="https://wa.me/21693921970"><img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="40"/></a>
 </p>
 
 

@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,tsql,html,css,js,cpp,redis,git,postman,swagger,docker"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,html,css,js,cpp,redis,git,postman,swagger,docker"/>
 </p>
 
 ---

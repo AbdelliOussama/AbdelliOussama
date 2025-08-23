@@ -17,6 +17,16 @@
   <img src="https://komarev.com/ghpvc/?username=AbdelliOussama&style=flat&color=4010B0" height="30"/> 
 </p>
 
+## [📄 Check my CV](https://drive.google.com/file/d/1LyZbU71TJy3RwavQyOwTX83NLbPzMHtv/view?usp=drive_link)
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="mailto:oussama.abdelli.it@gmail.com"><img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/></a>&nbsp;
+  <a href="https://linkedin.com/in/oussama-abdelli-2a6326345"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/></a>&nbsp;
+  <a href="https://wa.me/216XXXXXXXX"><img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="40"/></a>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -55,12 +65,7 @@
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="mailto:oussama.abdelli.it@gmail.com"><img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/></a>&nbsp;
-  <a href="https://linkedin.com/in/oussama-abdelli-2a6326345"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/></a>&nbsp;
-  <a href="https://wa.me/216XXXXXXXX"><img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="40"/></a>
-</p>
+
 
 ## 🐍 Contribution Graph
 <p align="center">

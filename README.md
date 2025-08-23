@@ -1,31 +1,68 @@
 <!-- Banner -->
-<!-- Banner -->
-<p>
-  <img src="https://i.postimg.cc/qvpC7dVz/Chat-GPT-Image-Jul-5-2025-10-52-04-PM.png" height="250" width="100%" />
+<p align="center">
+  <img src="https://i.postimg.cc/qvpC7dVz/Chat-GPT-Image-Jul-5-2025-10-52-04-PM.png" width="100%" height="250"/>
 </p>
 
-
-
-
-<h1 align="center">Hi there 👋, I'm Oussama</h1>
-<h3 align="center">.NET Developer | C# Enthusiast | SQL Server Specialist</h3>
-
-
+<h1 align="center">I'm Oussama Abdelli</h1>
+<h2 align="center">.NET Developer | C# Enthusiast | SQL Server Specialist</h2>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+.NET+Developer;C%23+%7C+SQL+%7C+Clean+Architecture+Advocate;Always+learning+%E2%9C%85" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/oussama-abdelli-2a6326345"> <!-- Typing SVG with Link -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+.NET+Developer;Clean+Architecture+Advocate;Always+Learning+✅&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  </a>
 </p>
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AbdelliOussama&style=flat&color=4010B0" height="35"/> <!-- Profile Views -->
+</p>
 
 ---
 
-## 👤 Bio
+## [📄 Check My CV](#) <!-- Add your CV link here -->
 
-I'm a passionate and dedicated **.NET Developer** with a solid background in software engineering and hands-on experience building robust, scalable applications using **C#**, **.NET**, and **SQL Server**.
+<h3 align="left">📤 Connect with Me:</h3>
+<p align="left">
+  <a href="mailto:oussama.abdelli.it@gmail.com"> <!-- Gmail -->
+    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/oussama-abdelli-2a6326345"> <!-- LinkedIn -->
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+  </a>&nbsp;
+  <a href="https://wa.me/216XXXXXXXX"> <!-- WhatsApp -->
+    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
+  </a>
+</p>
 
-🔧 I love applying software architecture patterns like **Dependency Injection**, **Repository Pattern**, and **Clean Architecture** to ensure maintainability.  
-🚀 I enjoy working with libraries like **MediatR**, **AutoMapper**, and **Serilog**, and I regularly explore new technologies to level up my skills.
+---
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,tsql,html,css,js,cpp,redis,git,postman,swagger,docker"/>
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelliOussama&theme=onestar&row=1&column=7"/>
+</p>
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelliOussama&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+  <img src="https://streak-stats.demolab.com/?user=AbdelliOussama&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake Animation -->
+</p>
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
+
+
 
 ---
 

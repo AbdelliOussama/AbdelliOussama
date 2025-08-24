@@ -45,9 +45,14 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 **Clinic Management System** – JavaFX + MySQL (Appointments & Patient Records).  
-- 🔹 **Driving License Management** – WinForms + SQL Server.  
-- 🔹 **Online Exam App** – ASP.NET Core Web API + MySQL + Authentication.  
+🔹 Driving License Management System – C#, WinForms + SQL Server
+Desktop application for managing license applications, renewals, and retesting with optimized SQL queries.
+
+🔹 School Management System API – ASP.NET Core Web API + EF Core + CQRS
+Clean Architecture API with JWT authentication, role-based authorization, Swagger, and xUnit testing.
+
+🔹 E-Commerce Application Backend – ASP.NET Core (.NET 8) + EF Core + SQL Server
+Scalable backend with product catalog, shopping cart, checkout, and payment/refund handling.
 
 👉 Check pinned repositories for more!
 

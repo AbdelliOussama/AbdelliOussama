@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=AbdelliOussama&style=flat&color=4010B0" height="30"/> 
 </p>
 
-## [📄 Check my CV](https://drive.google.com/drive/u/0/home)
+## [📄 Check my CV](https://drive.google.com/file/d/1SwwFec5KFm6YXAfkr5dRZU2KKuW1YmZc/view?usp=drive_link)
 
 ## 📫 Connect with Me
 <p align="left">
